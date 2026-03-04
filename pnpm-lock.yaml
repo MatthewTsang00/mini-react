@@ -45,6 +45,8 @@ importers:
         specifier: 4.8.4
         version: 4.8.4
 
+  packages/react: {}
+
 packages:
 
   /@babel/code-frame@7.26.2:
